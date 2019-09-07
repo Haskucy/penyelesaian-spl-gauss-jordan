@@ -1,3 +1,4 @@
+
 public class IsiMatrix {
 	private static int baris = 0;
 	private static int unknown = 0;

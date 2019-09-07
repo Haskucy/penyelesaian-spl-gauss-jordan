@@ -1,5 +1,3 @@
-import program.IsiMatrix;
-
 public class ProgramMain {
 	public static void main(String[] args) {
 
@@ -13,7 +11,6 @@ public class ProgramMain {
 			program.inputMatrixAug(i, koefisien[i]);
 
 		program.isiMatrix();
-
 		program.runner();
 
 
